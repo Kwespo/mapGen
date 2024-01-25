@@ -1,0 +1,11 @@
+make a 3xN grid which contains data for the map data. It will be stored in a 15 long array with a max range of 3x5. 
+
+fuction for: 
+
+- giving menu
+- generating map
+- Save map data to CSV (using the CSV from github repo: https://github.com/vincentlaucsb/csv-parser)
+
+
+
+In the end it did not work fully as planned. The Github repo I used ended up not working as intended thus switched to a new CSV repo but did not work fully as needed. Additinally, We have added an ability to add custom set of tiles.
